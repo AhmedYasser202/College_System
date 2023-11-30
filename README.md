@@ -1,1 +1,1 @@
-# Collage_System
+# College_System
